@@ -25,6 +25,11 @@ This project simulates the spread of an infectious disease within a closed popul
 ## Project Status
 Completed
 
+## Other Information
+- **Author**: Ximena Canton
+- **Contact**: ximenacantonn@gmail.com
+- **Social Media**: https://www.linkedin.com/in/ximenacanton07/
+
 ## Sources
 This project was developed as part of a college coursework assignment for the Data Science and Mathematics program.
 
